@@ -42,8 +42,4 @@ This project automates the ETL (Extract, Transform, Load) process and optimizes 
     python sql_optimizer.py --log /path/to/slow-query.log
     ```
 
-## Contributing
-Feel free to fork this repository and submit pull requests for any improvements or fixes.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
